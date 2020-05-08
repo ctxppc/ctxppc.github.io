@@ -1,7 +1,2 @@
 theme: jekyll-theme-minimal
-defaults:
-  -
-    scope:
-      path: "" # all files
-    values:
-      site.title: "Constantino Tsarouhas"
+title: "Constantino Tsarouhas"
