@@ -1,3 +1,7 @@
+---
+title: Constantino Tsarouhas
+---
+
 # Welcome to my personal site!
 Hi, I'm Constantino and I'm a CS student and Swift developer in Brussels, Belgium. I like type theory and mathematical approaches to software engineering. I also like well-designed, accessible, performant native apps that respect the user and the user's privacy. My other interests include software security, linguistics, and tennis 🥎.
 
