@@ -13,7 +13,7 @@ Some of these projects form the basis of a few bigger projects that I'm working 
 ## Reaching me
 You can reach me by e-mail at `c` @ my domain. I'm also `@ctxppc` on Twitter.
 
-```Public Key
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBFxoROMDCADURRFM7U/shdoSHCviJF64FaLG/Mx/QNhulSHhf4lE9T/pJsMP
