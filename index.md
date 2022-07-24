@@ -16,7 +16,7 @@ Some of my ideas I‘ve been playing with recently (or less recently) are:
 My thesis for my master of engineering in computer science is a nanopass compiler I named [*Glyco*](https://github.com/ctxppc/thesis/tree/development/Glyco). It is a compiler experimenting with a few capability-based security features for the experimental (but definitely promising!) CHERI-RISC-V architecture. You can read all about it in [my thesis paper](https://github.com/ctxppc/thesis/raw/development/Text%20(one-sided).pdf).
 
 ### Ehh, tl;dr please?
-CHERI-RISC-V brings architectural capabilities to RISC-V, an instruction set architecture similar to x86 but much better. Capabilities are like pointers (memory addresses), except that they also indicate permissions (load, store, execute, etc.) and bounds (region of memory). When a capability is dereferenced, the hardware checks if the operation is allowed. If it's not, crashy things happen. Things like buffer overflow attacks can be made a thing of the past even if we stubbornly continue using C and C++, without paying the runtime price that we know from Java and memory-safe languages.
+CHERI-RISC-V brings architectural capabilities to RISC-V, an instruction set architecture similar to x86 but much better.<sup>[citation needed]</sup> Capabilities are like pointers (memory addresses), except that they also indicate permissions (load, store, execute, etc.) and bounds (region of memory). When a capability is dereferenced, the hardware checks if the operation is allowed. If it's not, crashy things happen thereby mitigating a possible attack. Things like buffer overflow attacks can be made a thing of the past even if we stubbornly continue using C and C++, without paying the runtime price that we know from Java and memory-safe languages.
 
 Capabilities don't magically solve problems: the software (kernel, compilers, apps, etc.) still needs to configure them correctly to get the full benefits at every layer of abstraction. There is a lot of theoretical (and some practical) research going on — Glyco is a tiny addition to that body of work done by many others.
 
@@ -27,7 +27,7 @@ You can reach me by e-mail at `c` @ my domain. I‘m also `@ctxppc` on Twitter. 
 
 Where feasible, I recommend the use of encryption in all forms of remote communication. You can encrypt e-mails to me using [PGP/GPG](https://www.devdungeon.com/content/gpg-tutorial). For Mac users, I highly recommend the (relatively inexpensive) [GPG Suite](https://gpgtools.org/) software package which has Apple Mail integration and a Mac-native user interface.
 
-My public key is shown below. But don't blindly trust this webpage you're reading — if we know each other, initiate contact and determine if it's really me before sending super-private messages and photos over the “wire.” 😄
+My public key is shown below. But don't blindly trust this webpage you're reading — if we know each other, initiate contact using the key and determine if it's really me before sending super-private messages and photos over the “wire.” 😄
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
