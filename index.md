@@ -3,7 +3,7 @@ title: Constantino Tsarouhas
 ---
 
 # Welcome to my personal site!
-Hi, I‘m Constantino and I‘m a CS student and Swift developer in Brussels, Belgium. I like type theory, software security, and mathematical approaches to software engineering and I‘m particularly passionate about well-designed, accessible, performant native apps that respect the user and the user‘s privacy. My other interests include linguistics and tennis 🥎.
+Hi, I‘m Constantino and I‘m a cyber security engineer in Brussels, Belgium. I like type theory, software security, and mathematical approaches to secure software engineering. I‘m particularly passionate about well-designed, accessible, performant native apps that respect the user and the user‘s privacy. My other interests include linguistics and tennis 🥎.
 
 ## Some of my pastime projects
 Some of my ideas I‘ve been playing with recently (or less recently) are:
@@ -12,8 +12,15 @@ Some of my ideas I‘ve been playing with recently (or less recently) are:
 * [DRAMASimulator](https://github.com/ctxppc/DRAMASimulator), an iOS app implementing the DRAMA machine, an educational decimal computer architecture used for a systems architecture course at KU Leuven, but with a twist: it‘s reversible!
 * [Silica](https://github.com/ctxppc/Silica), for declaring strongly typed localised strings in AppKit/UIKit apps.
 
+## My thesis
+My thesis for my master of engineering in computer science is a nanopass compiler I named [*Glyco*](https://github.com/ctxppc/thesis/tree/development/Glyco). It is a compiler experimenting with a few capability-based security features for the experimental (but definitely promising!) CHERI-RISC-V architecture. You can read all about it in [my thesis paper](https://github.com/ctxppc/thesis/raw/development/Text%20(one-sided).pdf).
+
 ## Reaching me
-You can reach me by e-mail at `c` @ my domain. I‘m also `@ctxppc` on Twitter.
+You can reach me by e-mail at `c` @ my domain. I‘m also `@ctxppc` on Twitter. If we're talking business, I'm [`cos(tan(sin(0)))` on LinkedIn](https://www.linkedin.com/in/costansin0/).
+
+Where feasible, I recommend the use of encryption in all forms of remote communication. You can encrypt e-mails to me using [PGP/GPG](https://www.devdungeon.com/content/gpg-tutorial). For Mac users, I highly recommend the (relatively inexpensive) [GPG Suite](https://gpgtools.org/) software package which has Apple Mail integration and a Mac-native user interface.
+
+My public key is shown below. But don't blindly trust this webpage you're reading — if we know each other, initiate contact and determine if it's really me before sending super-private messages and photos over the “wire.” 😄
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
