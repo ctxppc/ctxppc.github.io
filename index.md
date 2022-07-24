@@ -134,7 +134,7 @@ Arguably the most important specs for coders — if you're so curious that you s
 * Desktop operating system: macOS, Fedora, Ubuntu
 * Server operating system: Ubuntu
 * Mobile operating system: iOS
-* Programming language: [Swift](https://www.swift.org/), and if not available, a Docker container running Swift
+* Programming language: [Swift](https://www.swift.org/), and if not available, a [Docker container running Swift](https://hub.docker.com/_/swift/)
 * Data language: YAML, JSON
 * IDE: Xcode, Visual Studio Code
 * Text editor: [TextMate](https://macromates.com/), vim
