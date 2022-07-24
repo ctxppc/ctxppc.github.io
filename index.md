@@ -127,3 +127,16 @@ ll5f6kgBv+Z1XhfrHu4IweUfwx4ovOQ=
 =ZaZH
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+## Technical preferences
+Arguably the most important specs for coders — if you're so curious that you scrolled past that ASCII-armoured public key block. Preferences in each category are in order of preference.
+
+* Desktop operating system: macOS, Fedora, Ubuntu
+* Server operating system: Ubuntu
+* Mobile operating system: iOS
+* Programming language: [Swift](https://www.swift.org/), and if not available, a Docker container running Swift
+* Data language: YAML, JSON
+* IDE: Xcode, Visual Studio Code
+* Text editor: [TextMate](https://macromates.com/), vim
+* Shell: [fish](https://fishshell.com/)
+* Indentation: tabs — it has more semantical meaning than "4 spaces"
