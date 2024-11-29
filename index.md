@@ -7,10 +7,9 @@ Hi, I‘m Constantino and I‘m a cyber security engineer in Brussels, Belgium. 
 
 ## Some of my pastime projects
 Some of my ideas I‘ve been playing with recently (or less recently) are:
-* [Spin](https://github.com/ctxppc/Spin), an experimental web framework inspired by SwiftUI's declarative syntax for building apps.
+* [Conifer](https://github.com/ctxppc/Conifer), an experimental tree manipulation library inspired by SwiftUI's declarative syntax for building apps.
 * [PatternKit](https://github.com/ctxppc/PatternKit), a strongly typed pattern-matching and regular expression library.
 * [DRAMASimulator](https://github.com/ctxppc/DRAMASimulator), an iOS app implementing the DRAMA machine, an educational decimal computer architecture used for a systems architecture course at KU Leuven, but with a twist: it‘s reversible!
-* [Silica](https://github.com/ctxppc/Silica), for declaring strongly typed localised strings in AppKit/UIKit apps.
 
 ## My thesis
 My thesis for my master of engineering in computer science is a nanopass compiler I named [*Glyco*](https://github.com/ctxppc/thesis/tree/development/Glyco). It is a compiler experimenting with a few capability-based security features for the experimental (but definitely promising!) CHERI-RISC-V architecture. You can read all about it in [my thesis paper](https://github.com/ctxppc/thesis/raw/development/Text%20(one-sided).pdf).
